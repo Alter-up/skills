@@ -1,0 +1,13 @@
+{
+  "name": "contract-example",
+  "version": "0.1.0",
+  "description": "Minimal on-chain catalog example",
+  "type": "module",
+  "main": "src/index.ts",
+  "bin": { "contract-example": "src/index.ts" },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.7.0"
+  }
+}
