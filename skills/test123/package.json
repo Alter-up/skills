@@ -1,0 +1,13 @@
+{
+  "name": "test123",
+  "version": "0.1.0",
+  "description": "Minimal on-chain catalog example",
+  "type": "module",
+  "main": "src/index.ts",
+  "bin": { "test123": "src/index.ts" },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.7.0"
+  }
+}
