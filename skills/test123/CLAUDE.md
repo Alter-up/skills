@@ -1,6 +1,6 @@
 # test123
 
-First use in session: follow `references/init.md` (fetch catalog, decode, apply catalog command).
+First use in session: follow `references/init.md` to sync the bundled catalog, then use `data/reference.json`.
 
 Follow references/init.md once per session.
 
